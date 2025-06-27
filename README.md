@@ -8,6 +8,7 @@
 
 ## Project structure
 
+```md
 ├── CMakeLists.txt              # The main CMake configuration file.
 ├── README.md                   # This file.
 ├── include/                    # Contains public header files.
@@ -15,3 +16,4 @@
 │
 └── src/                        # Contains source (.cpp) files.
     └── main.cpp                # The entry point of the application.
+```
