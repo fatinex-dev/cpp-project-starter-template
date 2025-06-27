@@ -12,7 +12,7 @@
 ├── CMakeLists.txt              # The main CMake configuration file.
 ├── README.md                   # This file.
 ├── include/                    # Contains public header files.
-│   └── random.hpp              # Optional: Subdirectory for your project's public headers.
+│   └── random.hpp              # Optional: Subdirectory header files.
 │
 └── src/                        # Contains source (.cpp) files.
     └── main.cpp                # The entry point of the application.
